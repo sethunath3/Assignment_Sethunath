@@ -13,4 +13,4 @@ There are four manager classes which are singleton in nature and they can commun
 - 3) FoodManager
 - 4) ScoreManger
 
-Map Snake and Food components are created using MVC pattern. Manager classes creates the controllers and they creates and manages its corresponding models and views.
+Map, Snake and Food components are created using MVC pattern. Manager classes creates the controllers and they creates and manages its corresponding models and views.
